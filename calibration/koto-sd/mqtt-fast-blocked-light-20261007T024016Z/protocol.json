@@ -1,0 +1,16 @@
+{
+  "module": "ELCO Koto SD per user",
+  "sensor_position": "Taped directly under light, approximately 3 ft above floor",
+  "ambient_change": "More light blocked by user",
+  "transport": "MQTT chunks; buffered acquisition, transmission after capture",
+  "color_conversion_us_per_channel": 25000,
+  "color_samples_per_window": 30,
+  "color_windows_per_setting": 2,
+  "fast_conversion_us_per_channel": 600,
+  "fast_window_seconds": 5,
+  "sampling": "CRC validated; channel counters reject duplicate polls. Color requires matching channel counters. Fast uses only illuminance CH1. Actual intervals recorded.",
+  "cct_method": "Same coefficients and nearest Planckian locus calculation as original SD run; no specification normalization",
+  "restoration": "Light off; original automation/lock/hold states. Faster firmware retains legacy MQTT captures.",
+  "mapping_changed": false,
+  "frequency_limit": "Measured sample cadence sets Nyquist limit; integration and low-light quantization affect amplitude. No certified PstLM/SVM."
+}

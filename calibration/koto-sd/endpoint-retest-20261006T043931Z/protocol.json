@@ -1,0 +1,24 @@
+{
+  "sensor_calibration_changed": false,
+  "low_settings_pct": [
+    1,
+    2,
+    5
+  ],
+  "low_settle_seconds": [
+    15,
+    45
+  ],
+  "high_settle_seconds": [
+    60,
+    120
+  ],
+  "windows_per_checkpoint": 2,
+  "samples_per_window": 20,
+  "directions": [
+    "from_high",
+    "from_off_ascending",
+    "from_low"
+  ],
+  "purpose": "Endpoint repeat; excluded from existing lookup pending comparison"
+}

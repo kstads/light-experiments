@@ -1,0 +1,2 @@
+{"pass": "baseline_before", "command_pct": 0, "request_id": "sd-2e0913208d21", "requested_kelvin": 0, "requested_brightness_pct": 0, "cct": 4104.22, "x": 0.14878247, "y": 0.36803163, "lux": 0.0074, "foot_candles": 0.0007, "lux_min": 0.0, "lux_max": 0.0172, "samples": 7}
+{"pass": "baseline_before", "command_pct": 0, "request_id": "sd-8fde73f4a0fd", "requested_kelvin": 0, "requested_brightness_pct": 0, "cct": 1821.24, "x": 0.12383086, "y": -0.02263467, "lux": 0.0, "foot_candles": 0.0, "lux_min": 0.0, "lux_max": 0.0, "samples": 3}

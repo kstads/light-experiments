@@ -1,0 +1,76 @@
+{
+  "module": "ELK11HC",
+  "complete": {
+    "complete": true,
+    "restoration_verified": true,
+    "restoration_errors": [],
+    "time_utc": "2026-10-08T05:34:27.880512+00:00"
+  },
+  "ascending_points": 100,
+  "descending_points": 36,
+  "source_capture_records": 491,
+  "accepted_records": 491,
+  "individual_samples": 214637,
+  "full_output_ascent_lux": 550.280173335,
+  "full_output_ascent_cct_planck_K": 3929.5,
+  "full_output_ascent_firmware_cct_K": 3920.5924999999997,
+  "color_locus_unavailable_levels_ascending": [
+    1,
+    2,
+    3
+  ],
+  "fast_quantization_limited_levels_ascending": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "fast_modulation_range_above_quantization_screen_pct": [
+    13.227513227513226,
+    42.608695652173914
+  ],
+  "visible_flicker_observations": {
+    "module": "ELK11HC",
+    "time_utc": "2026-10-08T05:23:07.963596+00:00",
+    "user_statement": "I haven\u2019t watched for flicker",
+    "visible_flicker_assessed": false,
+    "specific_settings_assessed": [],
+    "SD_observations_transferred": false
+  },
+  "certified_PstLM_SVM": false,
+  "fast_flicker_excluded": false,
+  "automation_mapping_changed": false,
+  "absolute_color_accuracy_verified": false,
+  "midrange_complete": {
+    "complete": true,
+    "restoration_verified": true,
+    "restoration_errors": [],
+    "time_utc": "2026-10-08T05:39:04.197798+00:00"
+  },
+  "relative_output_reference": "Ascending measured 100% lux; no manufacturer normalization"
+}

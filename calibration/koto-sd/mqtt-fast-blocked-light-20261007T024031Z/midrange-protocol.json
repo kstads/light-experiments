@@ -1,0 +1,17 @@
+{
+  "purpose": "Check persistent directional differences after longer settling",
+  "settings_pct": [
+    30,
+    60
+  ],
+  "settling_checkpoints_seconds": [
+    15,
+    45
+  ],
+  "directions": [
+    "from_high",
+    "from_off_ascending"
+  ],
+  "windows_per_checkpoint": 2,
+  "fast_capture_per_checkpoint": true
+}

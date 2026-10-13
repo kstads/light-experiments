@@ -1,0 +1,14 @@
+{
+  "purpose": "Longer-settling directional checks",
+  "module": "ELK11HC",
+  "settings_pct": [
+    30,
+    60
+  ],
+  "checkpoints_seconds": [
+    15,
+    45
+  ],
+  "windows": 2,
+  "fast_per_checkpoint": true
+}

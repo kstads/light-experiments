@@ -1,0 +1,7 @@
+**/secrets.h
+**/*.bin
+**/*.elf
+**/*.o
+**/*.pyc
+**/__pycache__/
+.DS_Store

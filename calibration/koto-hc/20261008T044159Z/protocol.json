@@ -1,0 +1,28 @@
+{
+  "module": "ELCO Koto HC module",
+  "sensor_position": "Fixed sensor position; detector unobstructed",
+  "ambient_change": "Ambient conditions held stable during capture",
+  "transport": "MQTT chunks; buffered acquisition, transmission after capture",
+  "color_conversion_us_per_channel": 25000,
+  "color_samples_per_window": 30,
+  "color_windows_per_setting": 2,
+  "fast_conversion_us_per_channel": 600,
+  "fast_window_seconds": 5,
+  "sampling": "CRC validated; channel counters reject duplicate polls. Color requires matching channel counters. Fast uses only illuminance CH1. Actual intervals recorded.",
+  "cct_method": "Same coefficients and nearest Planckian locus calculation as original SD run; no specification normalization",
+  "restoration": "Measurement capture completed; operational restoration details are excluded from this publication",
+  "mapping_changed": false,
+  "manufacturer_url": "https://www.elcolighting.com/products/koto-led-module",
+  "manufacturer_rated_range_K": [
+    2200,
+    4000
+  ],
+  "specification_used_for_calibration": false,
+  "observer_domain_K": [
+    1000,
+    5000
+  ],
+  "observer_source": "Sibling SD experiment source; CIE 1931 2-degree, 5nm integration, CIE1960 uv nearest Planckian locus at 1K steps; license retained.",
+  "absolute_sensor_color_accuracy": "Not independently calibrated; 1K grid is not 1K accuracy",
+  "frequency_limit": "Measured sample cadence sets Nyquist limit; integration and low-light quantization affect amplitude. No certified PstLM/SVM."
+}

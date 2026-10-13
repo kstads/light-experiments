@@ -1,0 +1,4 @@
+{"pass": "baseline_before", "command_pct": 0, "request_id": "sd-720d064ea646", "error": "measurement_error", "lux": null}
+{"pass": "baseline_before", "command_pct": 0, "request_id": "sd-4c8745781bf6", "error": "measurement_error", "lux": null}
+{"pass": "baseline_before", "command_pct": 0, "request_id": "sd-680d71f379b6", "error": "measurement_error", "lux": null}
+{"time_utc": "2026-10-06T03:53:21.106557+00:00", "pass": "preflight", "command_pct": 1, "ha_brightness": 2, "light_state": "on", "cct_planck_K": 2036, "uv_distance": 0.005194438440677979, "request_id": "sd-7e6819fb5a51", "cct": 2054.05, "x": 0.53493208, "y": 0.43033668, "lux": 3.2121, "lux_min": 3.1304, "lux_max": 3.2852, "samples": 20}

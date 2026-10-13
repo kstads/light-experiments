@@ -1,0 +1,9 @@
+{
+  "source_sha256": "ef2fef3dda6a234c728aaedce24fd81cb866e22b550198ef482064a7399729fd",
+  "observed_firmware": "mqtt-fast-v1",
+  "firmware_modified": false,
+  "sensor_coefficients_modified": false,
+  "exact_module_SKU": "ELK11HC",
+  "prior_interrupted_run": "../20261008T043831Z",
+  "prior_restoration_verified": true
+}

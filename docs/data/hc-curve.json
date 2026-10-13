@@ -1,0 +1,1934 @@
+[
+  {
+    "dimmer_pct": 1,
+    "ascending": {
+      "lux": 1.0916266650000002,
+      "cct_K": null,
+      "firmware_cct_K": 2231.9794,
+      "cct_window_range_K": null,
+      "lux_window_cv_pct": 1.4855182342205746,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 85.59999999999998,
+      "sample_rate_Hz": 253.6580369588562,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.19837652125173677
+    },
+    "descending": {
+      "lux": 1.17877333,
+      "cct_K": null,
+      "firmware_cct_K": 2296.6739,
+      "cct_window_range_K": null,
+      "lux_window_cv_pct": 0.0,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 84.99999999999999,
+      "sample_rate_Hz": 253.62394210013423,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.21421330208137185
+    }
+  },
+  {
+    "dimmer_pct": 2,
+    "ascending": {
+      "lux": 1.2728000000000002,
+      "cct_K": null,
+      "firmware_cct_K": 2230.60985,
+      "cct_window_range_K": null,
+      "lux_window_cv_pct": 0.2548128841135343,
+      "fast_modulation_pct": null,
+      "frequency_candidate_Hz": null,
+      "sample_rate_Hz": 253.62916735424577,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.23130035601430693
+    },
+    "descending": {
+      "lux": 1.2986,
+      "cct_K": null,
+      "firmware_cct_K": 2214.4222,
+      "cct_window_range_K": null,
+      "lux_window_cv_pct": 1.8106932243263365,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 109.19999999999997,
+      "sample_rate_Hz": 253.6077554732837,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.2359888767443266
+    }
+  },
+  {
+    "dimmer_pct": 3,
+    "ascending": {
+      "lux": 1.55946667,
+      "cct_K": null,
+      "firmware_cct_K": 2234.56715,
+      "cct_window_range_K": null,
+      "lux_window_cv_pct": 1.247835493544327,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 86.19999999999997,
+      "sample_rate_Hz": 253.62592056908215,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.28339503139805594
+    },
+    "descending": {
+      "lux": 1.54112,
+      "cct_K": null,
+      "firmware_cct_K": 2214.8278499999997,
+      "cct_window_range_K": null,
+      "lux_window_cv_pct": 0.0,
+      "fast_modulation_pct": null,
+      "frequency_candidate_Hz": null,
+      "sample_rate_Hz": 253.54736172663553,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.2800609716065121
+    }
+  },
+  {
+    "dimmer_pct": 4,
+    "ascending": {
+      "lux": 1.79052,
+      "cct_K": 2166.0,
+      "firmware_cct_K": 2229.6178,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.7698251291231079,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 82.39999999999998,
+      "sample_rate_Hz": 253.56293954495158,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.32538333866336955
+    },
+    "descending": {
+      "lux": 1.736053335,
+      "cct_K": null,
+      "firmware_cct_K": 2233.5312,
+      "cct_window_range_K": null,
+      "lux_window_cv_pct": 0.18681830763367593,
+      "fast_modulation_pct": null,
+      "frequency_candidate_Hz": null,
+      "sample_rate_Hz": 253.58125988456547,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.31548535075842615
+    }
+  },
+  {
+    "dimmer_pct": 5,
+    "ascending": {
+      "lux": 2.8058933350000004,
+      "cct_K": 2193.5,
+      "firmware_cct_K": 2212.88025,
+      "cct_window_range_K": 21.0,
+      "lux_window_cv_pct": 0.057793686391097644,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 116.59999999999998,
+      "sample_rate_Hz": 253.56126496451742,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.5099026770299112
+    },
+    "descending": {
+      "lux": 2.038773335,
+      "cct_K": 2185.5,
+      "firmware_cct_K": 2208.7833,
+      "cct_window_range_K": 79.0,
+      "lux_window_cv_pct": 0.7953955881117499,
+      "fast_modulation_pct": null,
+      "frequency_candidate_Hz": null,
+      "sample_rate_Hz": 253.62921808592347,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.37049732732399104
+    }
+  },
+  {
+    "dimmer_pct": 6,
+    "ascending": {
+      "lux": 3.055866665,
+      "cct_K": 2181.0,
+      "firmware_cct_K": 2200.1868999999997,
+      "cct_window_range_K": 12.0,
+      "lux_window_cv_pct": 0.05306609784620989,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 119.79999999999997,
+      "sample_rate_Hz": 253.54223719506643,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.5553292328305725
+    },
+    "descending": {
+      "lux": 2.2382933300000003,
+      "cct_K": 2167.5,
+      "firmware_cct_K": 2192.7073,
+      "cct_window_range_K": 43.0,
+      "lux_window_cv_pct": 0.4346967923604047,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 56.999999999999986,
+      "sample_rate_Hz": 253.6291166225883,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.40675522006084897
+    }
+  },
+  {
+    "dimmer_pct": 7,
+    "ascending": {
+      "lux": 3.14186667,
+      "cct_K": 2183.5,
+      "firmware_cct_K": 2202.14055,
+      "cct_window_range_K": 41.0,
+      "lux_window_cv_pct": 0.0,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 87.99999999999999,
+      "sample_rate_Hz": 253.45292096989849,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.5709576361725996
+    },
+    "descending": {
+      "lux": 2.528973335,
+      "cct_K": 2172.5,
+      "firmware_cct_K": 2194.7574,
+      "cct_window_range_K": 9.0,
+      "lux_window_cv_pct": 0.03206115784464556,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 62.59999999999999,
+      "sample_rate_Hz": 253.61755033448316,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.45957922119436595
+    }
+  },
+  {
+    "dimmer_pct": 8,
+    "ascending": {
+      "lux": 3.2565333350000003,
+      "cct_K": 2164.5,
+      "firmware_cct_K": 2183.93885,
+      "cct_window_range_K": 13.0,
+      "lux_window_cv_pct": 0.39837008974427957,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 105.19999999999997,
+      "sample_rate_Hz": 253.46189539485542,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.5917955057809225
+    },
+    "descending": {
+      "lux": 2.72276,
+      "cct_K": 2177.0,
+      "firmware_cct_K": 2199.2439999999997,
+      "cct_window_range_K": 46.0,
+      "lux_window_cv_pct": 0.7444794869900043,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 59.399999999999984,
+      "sample_rate_Hz": 253.60679666215054,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.494795221041416
+    }
+  },
+  {
+    "dimmer_pct": 9,
+    "ascending": {
+      "lux": 3.27832,
+      "cct_K": 2172.5,
+      "firmware_cct_K": 2192.1377,
+      "cct_window_range_K": 7.0,
+      "lux_window_cv_pct": 0.1483959666708341,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 79.39999999999998,
+      "sample_rate_Hz": 253.46620537284338,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.5957547007611742
+    },
+    "descending": {
+      "lux": 3.0702,
+      "cct_K": 2177.5,
+      "firmware_cct_K": 2197.2902,
+      "cct_window_range_K": 7.0,
+      "lux_window_cv_pct": 0.026409063309086645,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 46.99999999999999,
+      "sample_rate_Hz": 253.6003043203652,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.5579339668723483
+    }
+  },
+  {
+    "dimmer_pct": 10,
+    "ascending": {
+      "lux": 3.3712,
+      "cct_K": 2179.0,
+      "firmware_cct_K": 2198.21565,
+      "cct_window_range_K": 18.0,
+      "lux_window_cv_pct": 0.0,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 2.3999999999999995,
+      "sample_rate_Hz": 253.47467363885403,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.6126333753892453
+    },
+    "descending": {
+      "lux": 3.3723466650000002,
+      "cct_K": 2179.0,
+      "firmware_cct_K": 2197.04575,
+      "cct_window_range_K": 18.0,
+      "lux_window_cv_pct": 0.048086076420574955,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 33.599999999999994,
+      "sample_rate_Hz": 253.57116053336,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.6128417537854812
+    }
+  },
+  {
+    "dimmer_pct": 11,
+    "ascending": {
+      "lux": 3.4961866649999997,
+      "cct_K": 2178.5,
+      "firmware_cct_K": 2197.4999,
+      "cct_window_range_K": 5.0,
+      "lux_window_cv_pct": 0.04638279788469507,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 60.999999999999986,
+      "sample_rate_Hz": 253.51377698311003,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.635346653289576
+    },
+    "descending": {
+      "lux": 3.4331199999999997,
+      "cct_K": 2182.0,
+      "firmware_cct_K": 2200.0647,
+      "cct_window_range_K": 4.0,
+      "lux_window_cv_pct": 0.18893982500261183,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 96.99999999999997,
+      "sample_rate_Hz": 253.61744888048295,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.6238858251412925
+    }
+  },
+  {
+    "dimmer_pct": 12,
+    "ascending": {
+      "lux": 3.6808,
+      "cct_K": 2196.5,
+      "firmware_cct_K": 2212.2311,
+      "cct_window_range_K": 5.0,
+      "lux_window_cv_pct": 0.0,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 58.999999999999986,
+      "sample_rate_Hz": 253.45758556344,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.6688956241494821
+    },
+    "descending": {
+      "lux": 7.597813335,
+      "cct_K": 2164.5,
+      "firmware_cct_K": 2176.69855,
+      "cct_window_range_K": 7.0,
+      "lux_window_cv_pct": 0.08537356161649125,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 58.79999999999999,
+      "sample_rate_Hz": 253.48648959024823,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 1.3807172606189098
+    }
+  },
+  {
+    "dimmer_pct": 13,
+    "ascending": {
+      "lux": 3.676213335,
+      "cct_K": 2163.5,
+      "firmware_cct_K": 2181.7539500000003,
+      "cct_window_range_K": 13.0,
+      "lux_window_cv_pct": 0.08822299373072132,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 113.99999999999997,
+      "sample_rate_Hz": 253.43902961056003,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 0.6680621096559102
+    },
+    "descending": {
+      "lux": 11.84392,
+      "cct_K": 2172.5,
+      "firmware_cct_K": 2182.1981,
+      "cct_window_range_K": 7.0,
+      "lux_window_cv_pct": 2.2591270964426493,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 25.799999999999994,
+      "sample_rate_Hz": 253.376096386989,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 2.1523435831277262
+    }
+  },
+  {
+    "dimmer_pct": 14,
+    "ascending": {
+      "lux": 6.69768,
+      "cct_K": 2175.0,
+      "firmware_cct_K": 2186.54485,
+      "cct_window_range_K": 2.0,
+      "lux_window_cv_pct": 0.21790655814685822,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 110.79999999999997,
+      "sample_rate_Hz": 253.35900811349205,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 1.217139981513123
+    },
+    "descending": {
+      "lux": 12.39776,
+      "cct_K": 2163.5,
+      "firmware_cct_K": 2173.7756,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 3.4008094904358086,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 50.19999999999999,
+      "sample_rate_Hz": 253.42072981569893,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 2.2529904947988166
+    }
+  },
+  {
+    "dimmer_pct": 15,
+    "ascending": {
+      "lux": 6.803746665,
+      "cct_K": 2179.5,
+      "firmware_cct_K": 2191.93945,
+      "cct_window_range_K": 11.0,
+      "lux_window_cv_pct": 0.2264267447775927,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 126.59999999999997,
+      "sample_rate_Hz": 253.39085399122618,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 1.2364150108781058
+    },
+    "descending": {
+      "lux": 13.201,
+      "cct_K": 2167.5,
+      "firmware_cct_K": 2177.7944500000003,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.07984698409849132,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 24.199999999999996,
+      "sample_rate_Hz": 253.33031311306536,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 2.3989597735267645
+    }
+  },
+  {
+    "dimmer_pct": 16,
+    "ascending": {
+      "lux": 11.335946665000002,
+      "cct_K": 2168.0,
+      "firmware_cct_K": 2178.45425,
+      "cct_window_range_K": 2.0,
+      "lux_window_cv_pct": 0.028610450947856417,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 65.79999999999998,
+      "sample_rate_Hz": 253.24588815493365,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 2.0600318191182394
+    },
+    "descending": {
+      "lux": 17.57209333,
+      "cct_K": 2166.0,
+      "firmware_cct_K": 2174.8914999999997,
+      "cct_window_range_K": 2.0,
+      "lux_window_cv_pct": 0.013842672478467799,
+      "fast_modulation_pct": 66.66666666666667,
+      "frequency_candidate_Hz": 12.799999999999997,
+      "sample_rate_Hz": 253.19379453033352,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 3.1932993739359112
+    }
+  },
+  {
+    "dimmer_pct": 17,
+    "ascending": {
+      "lux": 12.461400000000001,
+      "cct_K": 2168.5,
+      "firmware_cct_K": 2178.4928,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.07157284291822195,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 12.199999999999998,
+      "sample_rate_Hz": 253.22405628534713,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 2.264555512599532
+    },
+    "descending": {
+      "lux": 23.16094667,
+      "cct_K": 2179.0,
+      "firmware_cct_K": 2187.5258999999996,
+      "cct_window_range_K": 6.0,
+      "lux_window_cv_pct": 0.0945212916270479,
+      "fast_modulation_pct": 50.0,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 253.09648037832025,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 4.208937154619246
+    }
+  },
+  {
+    "dimmer_pct": 18,
+    "ascending": {
+      "lux": 12.56116,
+      "cct_K": 2165.0,
+      "firmware_cct_K": 2175.34695,
+      "cct_window_range_K": 4.0,
+      "lux_window_cv_pct": 0.006454905929987868,
+      "fast_modulation_pct": 100.0,
+      "frequency_candidate_Hz": 112.19999999999997,
+      "sample_rate_Hz": 253.25095409196328,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 2.2826844594222746
+    },
+    "descending": {
+      "lux": 22.81178667,
+      "cct_K": 2180.5,
+      "firmware_cct_K": 2188.8379999999997,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.1492836272519208,
+      "fast_modulation_pct": 50.0,
+      "frequency_candidate_Hz": 52.39999999999999,
+      "sample_rate_Hz": 253.07642908158266,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 4.145485840739646
+    }
+  },
+  {
+    "dimmer_pct": 19,
+    "ascending": {
+      "lux": 16.94601333,
+      "cct_K": 2174.5,
+      "firmware_cct_K": 2183.8145,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.07177048902044277,
+      "fast_modulation_pct": 66.66666666666667,
+      "frequency_candidate_Hz": 123.19999999999997,
+      "sample_rate_Hz": 253.14697713492455,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 3.0795246042207656
+    },
+    "descending": {
+      "lux": 23.061186665,
+      "cct_K": 2178.5,
+      "firmware_cct_K": 2186.9297500000002,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.0035159428027797066,
+      "fast_modulation_pct": 50.0,
+      "frequency_candidate_Hz": 119.79999999999997,
+      "sample_rate_Hz": 253.1085835823568,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 4.1908082068878745
+    }
+  },
+  {
+    "dimmer_pct": 20,
+    "ascending": {
+      "lux": 17.05208,
+      "cct_K": 2173.0,
+      "firmware_cct_K": 2182.4662,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.0665691550514227,
+      "fast_modulation_pct": 60.00000000000001,
+      "frequency_candidate_Hz": 123.59999999999997,
+      "sample_rate_Hz": 253.1642529673252,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 3.0987996344943767
+    },
+    "descending": {
+      "lux": 27.628933335,
+      "cct_K": 2196.0,
+      "firmware_cct_K": 2202.7340999999997,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.029346627379051173,
+      "fast_modulation_pct": 40.0,
+      "frequency_candidate_Hz": 106.99999999999997,
+      "sample_rate_Hz": 252.9833623410248,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 5.0208847554062315
+    }
+  },
+  {
+    "dimmer_pct": 21,
+    "ascending": {
+      "lux": 22.573853335000003,
+      "cct_K": 2183.0,
+      "firmware_cct_K": 2191.3467,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.003591846375321818,
+      "fast_modulation_pct": 50.0,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.96402187178168,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 4.1022472603710325
+    }
+  },
+  {
+    "dimmer_pct": 22,
+    "ascending": {
+      "lux": 27.231613335,
+      "cct_K": 2194.5,
+      "firmware_cct_K": 2202.2553,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.0029774884168964756,
+      "fast_modulation_pct": 40.0,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.84495583314714,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 4.948681536163927
+    }
+  },
+  {
+    "dimmer_pct": 23,
+    "ascending": {
+      "lux": 27.380679999999998,
+      "cct_K": 2195.0,
+      "firmware_cct_K": 2202.4847,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.0740317248511393,
+      "fast_modulation_pct": 40.0,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.91264729310436,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 4.97577076674561
+    }
+  },
+  {
+    "dimmer_pct": 24,
+    "ascending": {
+      "lux": 30.74786667,
+      "cct_K": 2221.5,
+      "firmware_cct_K": 2227.5789999999997,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.06328757317410715,
+      "fast_modulation_pct": 33.333333333333336,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.75853015011015,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 5.587674817293715
+    }
+  },
+  {
+    "dimmer_pct": 25,
+    "ascending": {
+      "lux": 36.156693335,
+      "cct_K": 2299.0,
+      "firmware_cct_K": 2302.4338,
+      "cct_window_range_K": 4.0,
+      "lux_window_cv_pct": 0.044850100112699964,
+      "fast_modulation_pct": 28.571428571428573,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.6846999114103,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 6.570597140702088
+    },
+    "descending": {
+      "lux": 42.794746665,
+      "cct_K": 2440.0,
+      "firmware_cct_K": 2440.7244499999997,
+      "cct_window_range_K": 4.0,
+      "lux_window_cv_pct": 0.07199714806836072,
+      "fast_modulation_pct": 29.41176470588236,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.66569308020087,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 7.776901429255636
+    }
+  },
+  {
+    "dimmer_pct": 26,
+    "ascending": {
+      "lux": 36.356786665,
+      "cct_K": 2303.5,
+      "firmware_cct_K": 2306.49475,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.024531791707902224,
+      "fast_modulation_pct": 28.571428571428573,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.7639932788393,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 6.606959223091377
+    }
+  },
+  {
+    "dimmer_pct": 27,
+    "ascending": {
+      "lux": 42.40144,
+      "cct_K": 2417.5,
+      "firmware_cct_K": 2418.31505,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.08413841333575812,
+      "fast_modulation_pct": 33.333333333333336,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.61141803609524,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 7.7054275357631
+    }
+  },
+  {
+    "dimmer_pct": 28,
+    "ascending": {
+      "lux": 42.64338667,
+      "cct_K": 2422.5,
+      "firmware_cct_K": 2423.70475,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.07985825057816909,
+      "fast_modulation_pct": 29.41176470588236,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.56381288903984,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 7.7493954418814806
+    }
+  },
+  {
+    "dimmer_pct": 29,
+    "ascending": {
+      "lux": 49.098546665,
+      "cct_K": 2541.5,
+      "firmware_cct_K": 2541.9275500000003,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.07101041290002368,
+      "fast_modulation_pct": 30.000000000000004,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.36590534617454,
+      "fast_quantization_limited": true,
+      "relative_output_pct": 8.922463327623792
+    }
+  },
+  {
+    "dimmer_pct": 30,
+    "ascending": {
+      "lux": 54.54234667,
+      "cct_K": 2631.5,
+      "firmware_cct_K": 2632.5392,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.02675844523521029,
+      "fast_modulation_pct": 30.434782608695652,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.1919685264423,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 9.911741202566581
+    },
+    "descending": {
+      "lux": 61.82024,
+      "cct_K": 2758.0,
+      "firmware_cct_K": 2759.17245,
+      "cct_window_range_K": 2.0,
+      "lux_window_cv_pct": 0.039347102620138345,
+      "fast_modulation_pct": 38.46153846153846,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.18454865270402,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 11.234320805224618
+    }
+  },
+  {
+    "dimmer_pct": 31,
+    "ascending": {
+      "lux": 54.69428,
+      "cct_K": 2635.5,
+      "firmware_cct_K": 2636.1053,
+      "cct_window_range_K": 5.0,
+      "lux_window_cv_pct": 0.10228910322520361,
+      "fast_modulation_pct": 30.434782608695652,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.17940042546266,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 9.939351379593168
+    }
+  },
+  {
+    "dimmer_pct": 32,
+    "ascending": {
+      "lux": 61.73481333,
+      "cct_K": 2745.5,
+      "firmware_cct_K": 2746.56355,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.019700774944273112,
+      "fast_modulation_pct": 33.33333333333333,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.04778826065422,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 11.218796591535023
+    }
+  },
+  {
+    "dimmer_pct": 33,
+    "ascending": {
+      "lux": 61.95841333,
+      "cct_K": 2746.5,
+      "firmware_cct_K": 2748.00385,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.043185290200363026,
+      "fast_modulation_pct": 33.33333333333333,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.01365914032542,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 11.259430437861862
+    }
+  },
+  {
+    "dimmer_pct": 34,
+    "ascending": {
+      "lux": 67.09834667,
+      "cct_K": 2820.5,
+      "firmware_cct_K": 2822.1728,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.007250394228767587,
+      "fast_modulation_pct": 31.03448275862069,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.8340479632846,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 12.193487957842853
+    }
+  },
+  {
+    "dimmer_pct": 35,
+    "ascending": {
+      "lux": 72.64534667000001,
+      "cct_K": 2892.5,
+      "firmware_cct_K": 2894.0946000000004,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.030135482792845426,
+      "fast_modulation_pct": 37.50000000000001,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.63402091962837,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 13.201519914797098
+    },
+    "descending": {
+      "lux": 79.77359999999999,
+      "cct_K": 2987.5,
+      "firmware_cct_K": 2988.7115,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.018295130173002716,
+      "fast_modulation_pct": 37.142857142857146,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.63865169690064,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 14.496906097221016
+    }
+  },
+  {
+    "dimmer_pct": 36,
+    "ascending": {
+      "lux": 72.80416,
+      "cct_K": 2896.5,
+      "firmware_cct_K": 2898.0066,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.006682165764374108,
+      "fast_modulation_pct": 37.50000000000001,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.6280313626938,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 13.230380364018353
+    }
+  },
+  {
+    "dimmer_pct": 37,
+    "ascending": {
+      "lux": 79.937,
+      "cct_K": 2978.5,
+      "firmware_cct_K": 2980.17365,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.015214777432741305,
+      "fast_modulation_pct": 37.142857142857146,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.42559512558375,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 14.526600061844476
+    }
+  },
+  {
+    "dimmer_pct": 38,
+    "ascending": {
+      "lux": 80.27068,
+      "cct_K": 2981.5,
+      "firmware_cct_K": 2983.2838,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.0010100961667544458,
+      "fast_modulation_pct": 37.142857142857146,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.5101614507154,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 14.587238263286066
+    }
+  },
+  {
+    "dimmer_pct": 39,
+    "ascending": {
+      "lux": 87.50327999999999,
+      "cct_K": 3049.5,
+      "firmware_cct_K": 3051.13175,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.007412900316573841,
+      "fast_modulation_pct": 36.8421052631579,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.33446393820694,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 15.90158690793493
+    }
+  },
+  {
+    "dimmer_pct": 40,
+    "ascending": {
+      "lux": 95.001333335,
+      "cct_K": 3115.5,
+      "firmware_cct_K": 3116.56445,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.06998522403358581,
+      "fast_modulation_pct": 36.36363636363636,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.13445738848577,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 17.264175221731097
+    },
+    "descending": {
+      "lux": 99.85402667,
+      "cct_K": 3164.5,
+      "firmware_cct_K": 3165.4827999999998,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.038976051877339206,
+      "fast_modulation_pct": 37.77777777777777,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.10059089671324,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 18.146033876675908
+    }
+  },
+  {
+    "dimmer_pct": 41,
+    "ascending": {
+      "lux": 95.249586665,
+      "cct_K": 3116.0,
+      "firmware_cct_K": 3117.3181,
+      "cct_window_range_K": 2.0,
+      "lux_window_cv_pct": 0.06214153369055265,
+      "fast_modulation_pct": 38.095238095238095,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.1243065317332,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 17.30928920948309
+    }
+  },
+  {
+    "dimmer_pct": 42,
+    "ascending": {
+      "lux": 100.85334667000001,
+      "cct_K": 3160.5,
+      "firmware_cct_K": 3161.1126999999997,
+      "cct_window_range_K": 5.0,
+      "lux_window_cv_pct": 0.02170679176088541,
+      "fast_modulation_pct": 37.77777777777777,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.033086160756,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 18.327635912952008
+    }
+  },
+  {
+    "dimmer_pct": 43,
+    "ascending": {
+      "lux": 101.000693335,
+      "cct_K": 3161.5,
+      "firmware_cct_K": 3162.05645,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.05619476934877127,
+      "fast_modulation_pct": 39.13043478260869,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.00030120036146,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 18.354412575485018
+    }
+  },
+  {
+    "dimmer_pct": 44,
+    "ascending": {
+      "lux": 108.13410667,
+      "cct_K": 3213.5,
+      "firmware_cct_K": 3213.9953,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.022494728094479374,
+      "fast_modulation_pct": 36.0,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 250.7840253177782,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 19.650736462963575
+    }
+  },
+  {
+    "dimmer_pct": 45,
+    "ascending": {
+      "lux": 108.36171999999999,
+      "cct_K": 3217.5,
+      "firmware_cct_K": 3217.62995,
+      "cct_window_range_K": 5.0,
+      "lux_window_cv_pct": 0.005237740519694523,
+      "fast_modulation_pct": 40.0,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 250.78267009689858,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 19.692099634131548
+    },
+    "descending": {
+      "lux": 132.869426665,
+      "cct_K": 3365.0,
+      "firmware_cct_K": 3364.0027499999997,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.017696813879782905,
+      "fast_modulation_pct": 41.935483870967744,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 250.17882782613012,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 24.1457775699492
+    }
+  },
+  {
+    "dimmer_pct": 46,
+    "ascending": {
+      "lux": 115.78982666499999,
+      "cct_K": 3262.5,
+      "firmware_cct_K": 3262.5591999999997,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.02030718571507902,
+      "fast_modulation_pct": 39.62264150943396,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 250.5733466412064,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 21.041976846676135
+    }
+  },
+  {
+    "dimmer_pct": 47,
+    "ascending": {
+      "lux": 134.50170667,
+      "cct_K": 3362.0,
+      "firmware_cct_K": 3361.0327500000003,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.007233952304406321,
+      "fast_modulation_pct": 39.682539682539684,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 250.03295434338247,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 24.442404649043745
+    }
+  },
+  {
+    "dimmer_pct": 48,
+    "ascending": {
+      "lux": 134.696066665,
+      "cct_K": 3365.5,
+      "firmware_cct_K": 3364.45235,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.006621552801925056,
+      "fast_modulation_pct": 39.682539682539684,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 250.06131503444647,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 24.477724837634597
+    }
+  },
+  {
+    "dimmer_pct": 49,
+    "ascending": {
+      "lux": 149.58094667,
+      "cct_K": 3434.0,
+      "firmware_cct_K": 3431.45455,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.043906713587984106,
+      "fast_modulation_pct": 42.02898550724638,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 249.60034944048923,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 27.182688731715945
+    }
+  },
+  {
+    "dimmer_pct": 50,
+    "ascending": {
+      "lux": 149.7862,
+      "cct_K": 3432.0,
+      "firmware_cct_K": 3429.85545,
+      "cct_window_range_K": 8.0,
+      "lux_window_cv_pct": 0.04817707422762222,
+      "fast_modulation_pct": 40.0,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 249.52356406892693,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 27.219988518251238
+    },
+    "descending": {
+      "lux": 180.6344,
+      "cct_K": 3549.0,
+      "firmware_cct_K": 3545.32165,
+      "cct_window_range_K": 2.0,
+      "lux_window_cv_pct": 0.05117131534010305,
+      "fast_modulation_pct": 41.176470588235304,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 248.55639168164606,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 32.8258964711115
+    }
+  },
+  {
+    "dimmer_pct": 51,
+    "ascending": {
+      "lux": 168.232053335,
+      "cct_K": 3501.5,
+      "firmware_cct_K": 3498.3126,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.03373739161777496,
+      "fast_modulation_pct": 41.77215189873417,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 248.96157606286482,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 30.572072461819108
+    }
+  },
+  {
+    "dimmer_pct": 52,
+    "ascending": {
+      "lux": 168.33468,
+      "cct_K": 3502.0,
+      "firmware_cct_K": 3498.67455,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.020711759242747162,
+      "fast_modulation_pct": 41.02564102564103,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 248.96247290982095,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 30.59072235508676
+    }
+  },
+  {
+    "dimmer_pct": 53,
+    "ascending": {
+      "lux": 183.37264,
+      "cct_K": 3549.0,
+      "firmware_cct_K": 3545.12745,
+      "cct_window_range_K": 4.0,
+      "lux_window_cv_pct": 0.005306020194256021,
+      "fast_modulation_pct": 41.176470588235304,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 248.45008753764762,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 33.323504804590925
+    }
+  },
+  {
+    "dimmer_pct": 54,
+    "ascending": {
+      "lux": 183.60484,
+      "cct_K": 3549.5,
+      "firmware_cct_K": 3545.53045,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.02163884584862197,
+      "fast_modulation_pct": 41.176470588235304,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 248.40034776048685,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 33.365701491161104
+    }
+  },
+  {
+    "dimmer_pct": 55,
+    "ascending": {
+      "lux": 201.635026665,
+      "cct_K": 3596.5,
+      "firmware_cct_K": 3591.9167500000003,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.005227567658387991,
+      "fast_modulation_pct": 41.05263157894737,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 247.79744500417934,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 36.642248155695135
+    },
+    "descending": {
+      "lux": 216.545133335,
+      "cct_K": 3638.0,
+      "firmware_cct_K": 3633.3223,
+      "cct_window_range_K": 8.0,
+      "lux_window_cv_pct": 0.07600983572682346,
+      "fast_modulation_pct": 42.30769230769231,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 247.31599119987277,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 39.35179638085406
+    }
+  },
+  {
+    "dimmer_pct": 56,
+    "ascending": {
+      "lux": 219.17329333499998,
+      "cct_K": 3639.5,
+      "firmware_cct_K": 3633.7768,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.624093471997254,
+      "fast_modulation_pct": 40.38461538461539,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 247.07283707236897,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 39.82940035921874
+    }
+  },
+  {
+    "dimmer_pct": 57,
+    "ascending": {
+      "lux": 220.19841333,
+      "cct_K": 3640.0,
+      "firmware_cct_K": 3634.5948,
+      "cct_window_range_K": 4.0,
+      "lux_window_cv_pct": 0.08726826680956651,
+      "fast_modulation_pct": 41.747572815533985,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 247.11218893377594,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 40.015690915316235
+    }
+  },
+  {
+    "dimmer_pct": 58,
+    "ascending": {
+      "lux": 220.41570667000002,
+      "cct_K": 3639.0,
+      "firmware_cct_K": 3633.264,
+      "cct_window_range_K": 8.0,
+      "lux_window_cv_pct": 0.06621435552023172,
+      "fast_modulation_pct": 40.38461538461539,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 247.11584790949996,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 40.05517868000946
+    }
+  },
+  {
+    "dimmer_pct": 59,
+    "ascending": {
+      "lux": 232.81232,
+      "cct_K": 3661.0,
+      "firmware_cct_K": 3655.46655,
+      "cct_window_range_K": 4.0,
+      "lux_window_cv_pct": 0.08219175333743023,
+      "fast_modulation_pct": 41.284403669724774,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 246.62821426771222,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 42.30796079550341
+    }
+  },
+  {
+    "dimmer_pct": 60,
+    "ascending": {
+      "lux": 250.675666665,
+      "cct_K": 3693.5,
+      "firmware_cct_K": 3687.4092499999997,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.007439397981297292,
+      "fast_modulation_pct": 41.88034188034188,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 245.8929967313638,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 45.55418835931664
+    },
+    "descending": {
+      "lux": 262.481173335,
+      "cct_K": 3720.0,
+      "firmware_cct_K": 3713.7257,
+      "cct_window_range_K": 4.0,
+      "lux_window_cv_pct": 0.008031512334739565,
+      "fast_modulation_pct": 41.935483870967744,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 245.541874094852,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 47.69955125662987
+    }
+  },
+  {
+    "dimmer_pct": 61,
+    "ascending": {
+      "lux": 250.95946666999998,
+      "cct_K": 3698.5,
+      "firmware_cct_K": 3692.2516,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.021323698966323523,
+      "fast_modulation_pct": 40.67796610169492,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 245.88241978711267,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 45.60576208825548
+    }
+  },
+  {
+    "dimmer_pct": 62,
+    "ascending": {
+      "lux": 266.470426665,
+      "cct_K": 3717.0,
+      "firmware_cct_K": 3710.3179,
+      "cct_window_range_K": 6.0,
+      "lux_window_cv_pct": 0.04990189212812148,
+      "fast_modulation_pct": 40.800000000000004,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 245.40176933474706,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 48.42450075023472
+    }
+  },
+  {
+    "dimmer_pct": 63,
+    "ascending": {
+      "lux": 266.85627999999997,
+      "cct_K": 3720.0,
+      "firmware_cct_K": 3713.2079000000003,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.08841740233594579,
+      "fast_modulation_pct": 40.800000000000004,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 245.3980362152257,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 48.49462018278878
+    }
+  },
+  {
+    "dimmer_pct": 64,
+    "ascending": {
+      "lux": 286.0274,
+      "cct_K": 3749.5,
+      "firmware_cct_K": 3742.1886,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.012756368763702796,
+      "fast_modulation_pct": 41.353383458646626,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 244.88835571874333,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 51.978503653242115
+    }
+  },
+  {
+    "dimmer_pct": 65,
+    "ascending": {
+      "lux": 286.26533333500004,
+      "cct_K": 3747.5,
+      "firmware_cct_K": 3740.41115,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.0889371228663018,
+      "fast_modulation_pct": 41.353383458646626,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 244.83310143531406,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 52.02174223361073
+    },
+    "descending": {
+      "lux": 313.8656,
+      "cct_K": 3786.5,
+      "firmware_cct_K": 3779.49525,
+      "cct_window_range_K": 5.0,
+      "lux_window_cv_pct": 0.026349880052985362,
+      "fast_modulation_pct": 41.496598639455776,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 243.97434406626977,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 57.0374175209334
+    }
+  },
+  {
+    "dimmer_pct": 66,
+    "ascending": {
+      "lux": 301.799226665,
+      "cct_K": 3764.0,
+      "firmware_cct_K": 3756.8391,
+      "cct_window_range_K": 2.0,
+      "lux_window_cv_pct": 0.023642138322353824,
+      "fast_modulation_pct": 40.42553191489362,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 244.46581019610477,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 54.844648469875075
+    }
+  },
+  {
+    "dimmer_pct": 67,
+    "ascending": {
+      "lux": 301.84853333,
+      "cct_K": 3767.0,
+      "firmware_cct_K": 3759.7045,
+      "cct_window_range_K": 6.0,
+      "lux_window_cv_pct": 0.08219673113716912,
+      "fast_modulation_pct": 40.42553191489362,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 244.37472793047027,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 54.85360875363402
+    }
+  },
+  {
+    "dimmer_pct": 68,
+    "ascending": {
+      "lux": 319.114466665,
+      "cct_K": 3783.5,
+      "firmware_cct_K": 3775.54785,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.03989103987726149,
+      "fast_modulation_pct": 40.54054054054054,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 243.8788216351525,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 57.991271015815656
+    }
+  },
+  {
+    "dimmer_pct": 69,
+    "ascending": {
+      "lux": 319.08522667,
+      "cct_K": 3786.5,
+      "firmware_cct_K": 3778.68995,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.021344932159557652,
+      "fast_modulation_pct": 40.93959731543623,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 244.0026686165529,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 57.98595735989693
+    }
+  },
+  {
+    "dimmer_pct": 70,
+    "ascending": {
+      "lux": 330.960106665,
+      "cct_K": 3797.5,
+      "firmware_cct_K": 3789.3623500000003,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.02694878663032652,
+      "fast_modulation_pct": 41.17647058823529,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 243.3351483413888,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 60.14392716699205
+    },
+    "descending": {
+      "lux": 342.260506665,
+      "cct_K": 3810.0,
+      "firmware_cct_K": 3802.6853499999997,
+      "cct_window_range_K": 6.0,
+      "lux_window_cv_pct": 0.05306564090116449,
+      "fast_modulation_pct": 40.880503144654085,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 243.1031243453473,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 62.19749924674069
+    }
+  },
+  {
+    "dimmer_pct": 71,
+    "ascending": {
+      "lux": 331.33047999999997,
+      "cct_K": 3795.0,
+      "firmware_cct_K": 3787.32345,
+      "cct_window_range_K": 6.0,
+      "lux_window_cv_pct": 0.0464958710349989,
+      "fast_modulation_pct": 40.259740259740255,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 243.2927918708195,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 60.21123348710809
+    }
+  },
+  {
+    "dimmer_pct": 72,
+    "ascending": {
+      "lux": 347.827,
+      "cct_K": 3812.0,
+      "firmware_cct_K": 3803.85535,
+      "cct_window_range_K": 2.0,
+      "lux_window_cv_pct": 0.012820989443829619,
+      "fast_modulation_pct": 39.50617283950617,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 242.80084485886726,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 63.20907364188271
+    }
+  },
+  {
+    "dimmer_pct": 73,
+    "ascending": {
+      "lux": 347.93765333500005,
+      "cct_K": 3813.5,
+      "firmware_cct_K": 3805.3984,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.01910885336269677,
+      "fast_modulation_pct": 40.37267080745341,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 242.82768235578857,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 63.229182186649915
+    }
+  },
+  {
+    "dimmer_pct": 74,
+    "ascending": {
+      "lux": 364.68701333,
+      "cct_K": 3825.5,
+      "firmware_cct_K": 3817.3943,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.03068181014542838,
+      "fast_modulation_pct": 40.0,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 242.0919949580841,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 66.2729698436701
+    }
+  },
+  {
+    "dimmer_pct": 75,
+    "ascending": {
+      "lux": 364.94730666500004,
+      "cct_K": 3826.5,
+      "firmware_cct_K": 3818.1243999999997,
+      "cct_window_range_K": 7.0,
+      "lux_window_cv_pct": 0.07909372354369028,
+      "fast_modulation_pct": 39.285714285714285,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 242.0456013913021,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 66.3202718086714
+    },
+    "descending": {
+      "lux": 388.916653335,
+      "cct_K": 3849.5,
+      "firmware_cct_K": 3841.3691,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.04357244497601313,
+      "fast_modulation_pct": 38.888888888888886,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.0866712883351,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 70.67611594616459
+    }
+  },
+  {
+    "dimmer_pct": 76,
+    "ascending": {
+      "lux": 378.39942666499996,
+      "cct_K": 3838.5,
+      "firmware_cct_K": 3830.4455500000004,
+      "cct_window_range_K": 3.0,
+      "lux_window_cv_pct": 0.08335301593706221,
+      "fast_modulation_pct": 18.644067796610173,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.1189068826883,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 68.76486651730367
+    }
+  },
+  {
+    "dimmer_pct": 77,
+    "ascending": {
+      "lux": 378.55136,
+      "cct_K": 3838.5,
+      "firmware_cct_K": 3830.20415,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.06254321786296729,
+      "fast_modulation_pct": 37.93103448275863,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.15105501360352,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 68.79247669523889
+    }
+  },
+  {
+    "dimmer_pct": 78,
+    "ascending": {
+      "lux": 394.61271999999997,
+      "cct_K": 3847.5,
+      "firmware_cct_K": 3838.7032499999996,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.014793931593173677,
+      "fast_modulation_pct": 24.999999999999996,
+      "frequency_candidate_Hz": 119.79999999999997,
+      "sample_rate_Hz": 239.98757428806354,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 71.7112371337005
+    }
+  },
+  {
+    "dimmer_pct": 79,
+    "ascending": {
+      "lux": 407.63311999999996,
+      "cct_K": 3858.5,
+      "firmware_cct_K": 3849.99175,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.012332310684471364,
+      "fast_modulation_pct": 23.157894736842106,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.05497258872282,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 74.07737726211712
+    }
+  },
+  {
+    "dimmer_pct": 80,
+    "ascending": {
+      "lux": 407.86933333,
+      "cct_K": 3858.0,
+      "firmware_cct_K": 3849.6424,
+      "cct_window_range_K": 4.0,
+      "lux_window_cv_pct": 0.03339722778754579,
+      "fast_modulation_pct": 38.297872340425535,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.1347155754378,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 74.12030327352845
+    },
+    "descending": {
+      "lux": 418.01160000000004,
+      "cct_K": 3869.0,
+      "firmware_cct_K": 3860.2189,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.030259270560588327,
+      "fast_modulation_pct": 37.82383419689119,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.18393285578094,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 75.96341286777974
+    }
+  },
+  {
+    "dimmer_pct": 81,
+    "ascending": {
+      "lux": 423.610773335,
+      "cct_K": 3869.0,
+      "firmware_cct_K": 3860.69605,
+      "cct_window_range_K": 2.0,
+      "lux_window_cv_pct": 0.05780456431617993,
+      "fast_modulation_pct": 13.227513227513226,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.17662589068,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 76.98092605584644
+    }
+  },
+  {
+    "dimmer_pct": 82,
+    "ascending": {
+      "lux": 424.202453335,
+      "cct_K": 3870.5,
+      "firmware_cct_K": 3861.4895500000002,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.0053518889152682795,
+      "fast_modulation_pct": 15.343915343915347,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.07759307808283,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 77.08844946458822
+    }
+  },
+  {
+    "dimmer_pct": 83,
+    "ascending": {
+      "lux": 438.51457332999996,
+      "cct_K": 3877.5,
+      "firmware_cct_K": 3868.7533,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.03050858765868109,
+      "fast_modulation_pct": 17.346938775510203,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.0218899963677,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 79.68932819664589
+    }
+  },
+  {
+    "dimmer_pct": 84,
+    "ascending": {
+      "lux": 438.566173335,
+      "cct_K": 3877.5,
+      "firmware_cct_K": 3868.44205,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.02569815048222065,
+      "fast_modulation_pct": 30.143540669856453,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.07672852243576,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 79.69870523901456
+    }
+  },
+  {
+    "dimmer_pct": 85,
+    "ascending": {
+      "lux": 454.15224,
+      "cct_K": 3886.5,
+      "firmware_cct_K": 3877.5847,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.007855493313762679,
+      "fast_modulation_pct": 19.607843137254893,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.10382089215375,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 82.53109270639138
+    },
+    "descending": {
+      "lux": 460.56956,
+      "cct_K": 3891.0,
+      "firmware_cct_K": 3882.56495,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.030103921252428115,
+      "fast_modulation_pct": 20.388349514563103,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.04839375618127,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 83.69728409597163
+    }
+  },
+  {
+    "dimmer_pct": 86,
+    "ascending": {
+      "lux": 454.04215999999997,
+      "cct_K": 3886.5,
+      "firmware_cct_K": 3877.6150500000003,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.03571544102119232,
+      "fast_modulation_pct": 19.211822660098516,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.1713382326952,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 82.51108835127663
+    }
+  },
+  {
+    "dimmer_pct": 87,
+    "ascending": {
+      "lux": 465.01690667,
+      "cct_K": 3890.5,
+      "firmware_cct_K": 3881.50335,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.02406204493859158,
+      "fast_modulation_pct": 32.394366197183096,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.02673897872225,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 84.50548088108323
+    }
+  },
+  {
+    "dimmer_pct": 88,
+    "ascending": {
+      "lux": 465.01518667000005,
+      "cct_K": 3893.0,
+      "firmware_cct_K": 3883.93855,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.004707808814224057,
+      "fast_modulation_pct": 19.230769230769226,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.14442285590556,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 84.50516831303456
+    }
+  },
+  {
+    "dimmer_pct": 89,
+    "ascending": {
+      "lux": 480.631066665,
+      "cct_K": 3900.0,
+      "firmware_cct_K": 3890.96085,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.022605553225842793,
+      "fast_modulation_pct": 35.159817351598164,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.1664353396904,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 87.34297362598252
+    }
+  },
+  {
+    "dimmer_pct": 90,
+    "ascending": {
+      "lux": 480.719933335,
+      "cct_K": 3900.5,
+      "firmware_cct_K": 3891.6626,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.009276684183758568,
+      "fast_modulation_pct": 18.13953488372093,
+      "frequency_candidate_Hz": 119.79999999999997,
+      "sample_rate_Hz": 239.98363547786767,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 87.35912297576947
+    },
+    "descending": {
+      "lux": 492.778853335,
+      "cct_K": 3909.5,
+      "firmware_cct_K": 3900.4376,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.0065815797832956035,
+      "fast_modulation_pct": 36.00000000000001,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 240.4325064748754,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 89.55053756498069
+    }
+  },
+  {
+    "dimmer_pct": 91,
+    "ascending": {
+      "lux": 496.224013335,
+      "cct_K": 3908.0,
+      "firmware_cct_K": 3899.2055,
+      "cct_window_range_K": 2.0,
+      "lux_window_cv_pct": 0.021731818218229417,
+      "fast_modulation_pct": 37.16814159292035,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.21592708977747,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 90.17661136646265
+    }
+  },
+  {
+    "dimmer_pct": 92,
+    "ascending": {
+      "lux": 495.837586665,
+      "cct_K": 3907.0,
+      "firmware_cct_K": 3898.41035,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.003106965367445999,
+      "fast_modulation_pct": 37.44493392070484,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 250.6344371716674,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 90.10638774425617
+    }
+  },
+  {
+    "dimmer_pct": 93,
+    "ascending": {
+      "lux": 507.84433333000004,
+      "cct_K": 3914.5,
+      "firmware_cct_K": 3905.1218,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.003352824905872514,
+      "fast_modulation_pct": 36.79653679653679,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.62617207142657,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 92.28832110235491
+    }
+  },
+  {
+    "dimmer_pct": 94,
+    "ascending": {
+      "lux": 507.57142667,
+      "cct_K": 3913.5,
+      "firmware_cct_K": 3904.37755,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.02923318358120353,
+      "fast_modulation_pct": 36.79653679653679,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.67443788940224,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 92.23872697317776
+    }
+  },
+  {
+    "dimmer_pct": 95,
+    "ascending": {
+      "lux": 522.858786665,
+      "cct_K": 3918.0,
+      "firmware_cct_K": 3909.184,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.036132140878838835,
+      "fast_modulation_pct": 37.552742616033754,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.40879255320002,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 95.01683178883017
+    },
+    "descending": {
+      "lux": 539.3679199999999,
+      "cct_K": 3925.0,
+      "firmware_cct_K": 3915.98515,
+      "cct_window_range_K": 2.0,
+      "lux_window_cv_pct": 0.0024052316085350876,
+      "fast_modulation_pct": 36.326530612244895,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.21735255385568,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 98.01696410959788
+    }
+  },
+  {
+    "dimmer_pct": 96,
+    "ascending": {
+      "lux": 522.8473200000001,
+      "cct_K": 3920.5,
+      "firmware_cct_K": 3911.03005,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.015352619919767909,
+      "fast_modulation_pct": 36.40167364016737,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.4071683635815,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 95.01474800214194
+    }
+  },
+  {
+    "dimmer_pct": 97,
+    "ascending": {
+      "lux": 540.40106667,
+      "cct_K": 3926.0,
+      "firmware_cct_K": 3916.7767000000003,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.0027007133893339817,
+      "fast_modulation_pct": 35.77235772357724,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.14568977955463,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 98.20471331810354
+    }
+  },
+  {
+    "dimmer_pct": 98,
+    "ascending": {
+      "lux": 540.324813335,
+      "cct_K": 3927.0,
+      "firmware_cct_K": 3917.8215,
+      "cct_window_range_K": 2.0,
+      "lux_window_cv_pct": 0.012455046551666802,
+      "fast_modulation_pct": 35.77235772357724,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 252.08515436514455,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 98.19085613430974
+    }
+  },
+  {
+    "dimmer_pct": 99,
+    "ascending": {
+      "lux": 550.636786665,
+      "cct_K": 3930.0,
+      "firmware_cct_K": 3920.8368499999997,
+      "cct_window_range_K": 0.0,
+      "lux_window_cv_pct": 0.026357850586619554,
+      "fast_modulation_pct": 36.00000000000001,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.95359090901815,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 100.06480577481808
+    }
+  },
+  {
+    "dimmer_pct": 100,
+    "ascending": {
+      "lux": 550.280173335,
+      "cct_K": 3929.5,
+      "firmware_cct_K": 3920.5924999999997,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.012229716841008455,
+      "fast_modulation_pct": 35.742971887550205,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.99116049435102,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 100.0
+    },
+    "descending": {
+      "lux": 549.753853335,
+      "cct_K": 3928.5,
+      "firmware_cct_K": 3919.62655,
+      "cct_window_range_K": 1.0,
+      "lux_window_cv_pct": 0.012241425252925372,
+      "fast_modulation_pct": 35.742971887550205,
+      "frequency_candidate_Hz": 119.99999999999997,
+      "sample_rate_Hz": 251.97991365835207,
+      "fast_quantization_limited": false,
+      "relative_output_pct": 99.9043541771076
+    }
+  }
+]
