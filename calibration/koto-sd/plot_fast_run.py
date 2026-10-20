@@ -5,7 +5,7 @@ from reportlab.lib.colors import HexColor
 from reportlab.graphics import renderSVG
 R=pathlib.Path(sys.argv[1]);rows=list(csv.DictReader((R/'curve.csv').open()))
 d=Drawing(1100,830);d.add(Rect(0,0,1100,830,fillColor=HexColor('#FFFFFF'),strokeColor=None));blue=HexColor('#2377AD');orange=HexColor('#D06726');gray=HexColor('#596574')
-d.add(String(45,795,'Toilet SD — dimming, color and measured variation',fontName='Helvetica-Bold',fontSize=22,fillColor=HexColor('#172330')))
+d.add(String(45,795,'Fixture SD — dimming, color and measured variation',fontName='Helvetica-Bold',fontSize=22,fillColor=HexColor('#172330')))
 d.add(String(45,770,'Fixed sensor directly under fixture, about 3 ft above floor; additional light blocking',fontSize=12,fillColor=gray))
 def plot(x,y,title,field,xmax=100,ymin=None,ymax=None,fast=False):
  d.add(String(x,y+285,title,fontName='Helvetica-Bold',fontSize=14,fillColor=gray))
